@@ -1,0 +1,5 @@
+folium>=0.12.1,<0.13.0
+requests>=2.26.0,<3.0.0
+streamlit>=1.18.0,<2.0.0
+streamlit_folium>=0.7.0,<0.8.0
+streamlit_lottie>=0.0.1,<0.1.0
